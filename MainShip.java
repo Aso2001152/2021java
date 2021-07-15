@@ -1,7 +1,7 @@
 import java.util.*;
 public class MainShip {
     public static void main(String args[]){
-        //フィールドなどの宣言・初期化
+        //宣言・初期化
         Ship ship1 = new Ship();
         Ship ship2 = new Ship();
         Ship ship3 = new Ship();
